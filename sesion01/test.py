@@ -1,0 +1,1 @@
+print("Hola 🐍") # Imprimir un mensaje
